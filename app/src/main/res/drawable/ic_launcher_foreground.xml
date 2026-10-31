@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 作业本 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,30c-2.2,0 -4,1.8 -4,4v40c0,2.2 1.8,4 4,4h36c2.2,0 4,-1.8 4,-4V34c0,-2.2 -1.8,-4 -4,-4H36zM36,74V34h36v40H36zM42,42h24v4H42v-4zM42,50h24v4H42v-4zM42,58h16v4H42v-4z" />
+    <!-- 对勾 -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M47,68.5l-6,-6 2.8,-2.8 3.2,3.2 9.2,-9.2 2.8,2.8z" />
+</vector>

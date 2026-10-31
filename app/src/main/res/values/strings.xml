@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">数学作业上交</string>
+
+    <!-- 登录 -->
+    <string name="login_title">数学假期作业</string>
+    <string name="login_subtitle">学生作业上交客户端</string>
+    <string name="hint_class">班级</string>
+    <string name="hint_student">姓名</string>
+    <string name="hint_pin">家长电话尾号（后两位）</string>
+    <string name="hint_pin_waiting">选择学生后显示尾号提示</string>
+    <string name="pin_helper">请填写家长电话尾号的最后两位数字</string>
+    <string name="login_action">验证并进入</string>
+    <string name="login_footer">12 班 · 13 班 · 所有时间均为北京时间</string>
+
+    <!-- 底部导航 -->
+    <string name="nav_homework">本周作业</string>
+    <string name="nav_records">我的记录</string>
+    <string name="nav_feedback">评语反馈</string>
+
+    <!-- 作业页 -->
+    <string name="intro_title">本周作业</string>
+    <string name="intro_hint">• 可分多次拍照、选图；照片保存后还需手动提交\n• 每张照片不超过 10MB，每项作业最多 10 张\n• 上传后可长按照片拖动调整顺序\n• 需要修改时重新上传并再次提交即可</string>
+    <string name="label_select_subject">选择作业</string>
+    <string name="label_photos">已保存照片</string>
+    <string name="empty_photos">还没有照片\n点击右下角按钮开始拍照或选图</string>
+    <string name="fab_add_photo">添加照片</string>
+    <string name="photo_menu">照片操作</string>
+    <string name="photo_desc">作业照片</string>
+
+    <!-- 补交说明 -->
+    <string name="late_reason_hint">补交原因（100 字以内）</string>
+
+    <!-- 记录页 -->
+    <string name="empty_records">还没有任何提交记录</string>
+    <string name="tag_this_week">本周</string>
+
+    <!-- 评语页 -->
+    <string name="quiz_title">小测记录</string>
+    <string name="feedback_intro">选择日期查看对应作业的教师评价与小测记录</string>
+    <string name="review_title">教师评价</string>
+    <string name="review_strengths">做得好的地方</string>
+    <string name="review_concerns">需要关注</string>
+    <string name="review_suggestions">改进建议</string>
+    <string name="review_checks">卷面检查</string>
+    <string name="empty_feedback">该日期暂无评价记录</string>
+
+    <!-- 菜单 -->
+    <string name="menu_logout">切换学生</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_move_up">前移一位</string>
+    <string name="menu_replace">替换这张</string>
+    <string name="menu_delete">删除</string>
+</resources>

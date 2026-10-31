@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 2 深色主题 -->
+    <style name="Theme.Homework" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorPrimaryVariant">#42A5F5</item>
+        <item name="colorOnPrimary">#00243C</item>
+        <item name="colorSecondary">#FFB74D</item>
+        <item name="colorSecondaryVariant">#FFA726</item>
+        <item name="colorOnSecondary">#1A1200</item>
+        <item name="android:colorBackground">#121212</item>
+        <item name="colorSurface">#1E1E1E</item>
+        <item name="colorOnSurface">#E3E3E3</item>
+        <item name="android:statusBarColor">#0D1B26</item>
+        <item name="android:navigationBarColor">#121212</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textColorPrimary">#E3E3E3</item>
+        <item name="android:textColorSecondary">#A6B0BA</item>
+    </style>
+
+    <style name="Theme.Homework.Login">
+        <item name="android:windowBackground">#0D47A1</item>
+        <item name="android:statusBarColor">#0D1B26</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Homework.Viewer" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@color/viewerBg</item>
+        <item name="android:statusBarColor">@color/viewerBg</item>
+        <item name="android:navigationBarColor">@color/viewerBg</item>
+    </style>
+</resources>

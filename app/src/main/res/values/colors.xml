@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 2 调色板（蓝 + 琥珀双色） -->
+    <color name="primary">#1565C0</color>
+    <color name="primaryVariant">#0D47A1</color>
+    <color name="onPrimary">#FFFFFF</color>
+
+    <color name="secondary">#FF8F00</color>
+    <color name="secondaryVariant">#FF6F00</color>
+    <color name="onSecondary">#1A1A1A</color>
+
+    <color name="background">#F4F6F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1C1C1E</color>
+    <color name="onSurfaceVariant">#5F6B76</color>
+
+    <!-- 状态色 -->
+    <color name="statusOk">#2E7D32</color>
+    <color name="statusPending">#F9A825</color>
+    <color name="statusNone">#78909C</color>
+    <color name="statusOverdue">#C62828</color>
+    <color name="statusLate">#EF6C00</color>
+
+    <color name="chipOkBg">#E1F3E2</color>
+    <color name="chipPendingBg">#FDF3D7</color>
+    <color name="chipNoneBg">#ECF0F2</color>
+    <color name="chipOverdueBg">#FDE2E2</color>
+    <color name="chipOkText">#1E5E20</color>
+    <color name="chipPendingText">#8A6100</color>
+    <color name="chipNoneText">#4A5A66</color>
+    <color name="chipOverdueText">#8E1F1F</color>
+
+    <color name="badgeOverlay">#99000000</color>
+    <color name="viewerBg">#0A0A0A</color>
+</resources>
